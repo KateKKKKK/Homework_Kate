@@ -21,3 +21,6 @@
 # common_room.append([])
 # print(vip_box)
 # print(common_room)
+
+# group_of_people = frozenset(["John Dow","Marta Dow", "John Dow"])
+# print(group_of_people)
