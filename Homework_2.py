@@ -15,3 +15,9 @@
 # omnivores_list = ["Alex"]
 # omnivores_list.extend(vegeterians_list)
 # print(omnivores_list)
+
+# vip_box = ("Hanna", "Helen", "Joye")
+# common_room = ["Peter", "Jeniffer"]
+# common_room.append([])
+# print(vip_box)
+# print(common_room)
