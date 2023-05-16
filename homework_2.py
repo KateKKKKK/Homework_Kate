@@ -23,4 +23,4 @@ print(vip_box)
 print(common_room)
 
 group_of_people = frozenset(["John Dow","Marta Dow", "John Dow"])
-print(group_of_people)git bran
+print(group_of_people)
